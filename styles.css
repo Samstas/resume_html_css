@@ -1,0 +1,243 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: #e5e5e5;
+    padding: 40px; 
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Wrapper */
+.wrapper {
+    display: flex;
+    flex-direction: row-reverse;
+    background: #fff;
+    width: 1200px;
+    margin: 0 auto;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    text-align: left;
+}
+
+/* Main content */
+.main-content {
+    padding: 88px;
+    width: 100%;
+}
+
+/* About me */
+.block-about-me {
+    margin-bottom: 64px;
+}
+
+.my-profession {
+    margin-bottom: 18px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+}
+
+.name {
+    margin-bottom: 28px;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000;
+    margin: 0 0 28px 0;
+}
+
+.about-me {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    width: 525px;
+    color: #595959;
+}
+
+/* My projects */
+.block-my-projects {
+    margin-bottom: 52px;
+}
+
+.projects {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-bottom: 8px;
+}
+
+.number-item {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+    padding-left: 16px;
+}
+
+.programms {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.dots {
+    color: #A8A8A8;
+}
+
+.links {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #005FFF;
+    text-decoration: underline;
+    margin-left: 8px;
+}
+
+/* Work experience block */
+.block-work-experience {
+    margin-bottom: 42px;
+    width: 525px;
+}
+
+.text-work-experience {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000;
+    margin-bottom: 12px;
+}
+
+/* Company 1 */
+.company1 {
+    margin-bottom: 18px;
+}
+
+.professin-type {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 12px;
+}
+
+.data-info {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #A8A8A8;
+    margin-bottom: 8px;
+}
+
+.list-item {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 509px;
+    padding: 0 0 0 12px;
+}
+
+.highlight {
+    color: #6D9BF5;
+}
+
+/* Company 2 */
+.company2 {
+    margin-bottom: 18px;
+}
+
+/* Company 3 */
+.company3 {
+
+}
+
+/* Education block */
+.block-education {
+    margin-bottom: 108px;
+} 
+
+.highlight {
+    margin-bottom: 12px;
+}
+
+.management {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin-bottom: 12px;
+    margin: 0;
+}
+
+/* Side bar */
+.side-bar {
+    width: 370px;
+    background: #E0EBFE;
+    margin: 0;
+}
+
+.photo {
+    width: 370px;
+    margin-top: 40px;
+}
+
+/* Contacts */
+.contact-skills {
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #161D2A;
+    margin-bottom: 8px;
+}
+
+.number-item2 {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000;
+    margin: 0;
+}
+
+.contact-letters {
+    margin-right: 8px;
+}
+
+/* Soft skills */
+.contacts {
+    margin-top: 48px;
+    margin-bottom: 48px;
+    margin-left: 40px;
+}
+
+.telephone {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+}
+
+.email {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #2979FF;
+}
+
+.li-bar {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #6D9BF5;
+    padding: 0 0 0 14px;
+}
+
+.dot-item-bar {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+}
